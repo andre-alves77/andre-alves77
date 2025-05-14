@@ -1,4 +1,4 @@
-### the object of life is made up of the addresses we encounter; after all, everything is a reference.
+### the object of life is made up of the addresses we encounter; after all, everything is a reference;
 
 
 <!--
